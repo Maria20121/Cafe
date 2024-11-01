@@ -1,0 +1,38 @@
+body{
+  background: url('https://learn.logikaschool.com/uploads/student/1775092/66ec56249de6e.jpg');
+  font-family: sans-serif;
+}
+header{
+  background-color: #f4d9bb;
+  padding: 50px;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+  background-color: #ecbc88;
+  padding: 20px;
+  border-radius: 200px;
+  margin: 100px;
+}
+
+footer{
+  text-align: center;
+ }
+
+.picture{
+  width: 250px;
+}
+
+td{
+  padding: 15px;
+}
+
+main h1, nav{
+  text-align: center;
+}
+
+.important{
+  background-color:#cf7f1e;
+}
+
